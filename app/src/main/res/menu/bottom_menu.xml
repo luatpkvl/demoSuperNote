@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/it_book"
+            android:title="Sách"
+            android:icon="@drawable/ic_help"/>
+        <item android:id="@+id/it_nut2"
+            android:title="nut2"
+            android:icon="@drawable/ic_logout"/>
+        <item android:id="@+id/it_nut3"
+            android:title="nut3"
+            android:icon="@drawable/ic_person_add"/>
+        <item android:id="@+id/it_nut4"
+            android:title="nut4"
+            android:icon="@drawable/ic_person"/>
+</menu>
